@@ -1,0 +1,7 @@
+,index,f-measure,True Negative ,False Positive,False Negative,True Positive,markerCount,clusterName,1,2,3,4,5,6
+978,cluster_Endo&mRNA_Flt1>=5.425171375274658,0.886411889596603,11491.0,2.0,99.0,167.0,1,cluster_Endo,mRNA_Flt1,nan,nan,nan,nan,nan
+3260,cluster_Ex&mRNA_Slc17a7>=5.973121643066406,0.9968502596407592,7046.0,15.0,14.0,4684.0,1,cluster_Ex,mRNA_Slc17a7,nan,nan,nan,nan,nan
+3913,cluster_Glia&mRNA_Cxcl14>=5.9909186363220215&mRNA_Daam2>=5.758447647094727,0.7255600814663952,10968.0,11.0,495.0,285.0,2,cluster_Glia,mRNA_Cxcl14,mRNA_Daam2,nan,nan,nan,nan
+4239,cluster_Glia&mRNA_Daam2>=5.758447647094727&mRNA_Cxcl14>=5.9909186363220215,0.7255600814663952,10968.0,11.0,495.0,285.0,2,cluster_Glia,mRNA_Daam2,mRNA_Cxcl14,nan,nan,nan,nan
+5869,cluster_Inh&mRNA_Gad1>=7.069054126739502&mRNA_Gad2>=4.317360877990723,0.9991659716430358,5744.0,0.0,25.0,5990.0,2,cluster_Inh,mRNA_Gad1,mRNA_Gad2,nan,nan,nan,nan
+6195,cluster_Inh&mRNA_Gad2>=4.317360877990723&mRNA_Gad1>=7.069054126739502,0.9991659716430358,5744.0,0.0,25.0,5990.0,2,cluster_Inh,mRNA_Gad2,mRNA_Gad1,nan,nan,nan,nan

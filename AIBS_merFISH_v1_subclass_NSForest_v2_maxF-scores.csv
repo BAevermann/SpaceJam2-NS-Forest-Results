@@ -1,0 +1,23 @@
+clusterName,f-measure,True Negative ,False Positive,False Negative,True Positive,markerCount,,1,2,3,4,5,6,index
+Cluster_Astro,0.928825623,11407,3,88,261,2,,mRNA_Aqp4,mRNA_Rorb,nan,nan,nan,nan,Cluster_Astro&mRNA_Aqp4>=2.958714008331299&mRNA_Rorb>=3.8393287658691406
+Cluster_CR,0.625,11751,0,6,2,1,,mRNA_Pou6f2,nan,nan,nan,nan,nan,Cluster_CR&mRNA_Pou6f2>=7.910091400146484
+Cluster_Endo,1,11601,0,0,158,1,,mRNA_Cldn5,nan,nan,nan,nan,nan,Cluster_Endo&mRNA_Cldn5>=8.850349426269531
+Cluster_L2_3 IT,0.851979346,11043,8,312,396,3,,mRNA_C1ql3,mRNA_Lypd1,mRNA_Otof,nan,nan,nan,Cluster_L2_3 IT&mRNA_C1ql3>=0.5591852068901062&mRNA_Lypd1>=1.143082857131958&mRNA_Otof>=0.5726885795593262
+Cluster_L4,0.925022859,10927,7,218,607,2,,mRNA_Rorb,mRNA_Rspo1,nan,nan,nan,nan,Cluster_L4&mRNA_Rorb>=6.643716812133789&mRNA_Rspo1>=5.920435428619385
+Cluster_L5 IT,0.896871945,11187,2,203,367,3,,mRNA_Il1rapl2,mRNA_Rorb,mRNA_Tox,nan,nan,nan,Cluster_L5 IT&mRNA_Il1rapl2>=4.496767044067383&mRNA_Rorb>=3.6776347160339355&mRNA_Tox>=3.8788540363311768
+Cluster_L5 NP,0.946771379,11526,15,1,217,1,,mRNA_Tshz2,nan,nan,nan,nan,nan,Cluster_L5 NP&mRNA_Tshz2>=7.947591304779053
+Cluster_L5 PT,0.85618977,11361,9,158,231,2,,mRNA_Fam84b,mRNA_Pou3f1,nan,nan,nan,nan,Cluster_L5 PT&mRNA_Fam84b>=3.415224552154541&mRNA_Pou3f1>=5.449647903442383
+Cluster_L6 IT,0.84769198,10498,84,380,797,1,,mRNA_Osr1,nan,nan,nan,nan,nan,Cluster_L6 IT&mRNA_Osr1>=0.49194079637527466
+Cluster_L6 PT,0.892938497,11228,32,107,392,2,,mRNA_Foxp2,mRNA_Syt6,nan,nan,nan,nan,Cluster_L6 PT&mRNA_Foxp2>=6.231467247009277&mRNA_Syt6>=1.686469554901123
+Cluster_L6b,0.911921708,11455,0,99,205,2,,mRNA_Cplx3,mRNA_Nxph4,nan,nan,nan,nan,Cluster_L6b&mRNA_Cplx3>=10.541727066040039&mRNA_Nxph4>=5.548806667327881
+Cluster_Lamp5,0.921650265,10449,26,310,974,2,,mRNA_Cplx3,mRNA_Pld5,nan,nan,nan,nan,Cluster_Lamp5&mRNA_Cplx3>=7.918128967285156&mRNA_Pld5>=1.3344557285308838
+Cluster_Macrophage,1,11629,0,0,130,1,,mRNA_Ctss,nan,nan,nan,nan,nan,Cluster_Macrophage&mRNA_Ctss>=8.923123359680176
+Cluster_Meis2,0.928961749,11715,1,9,34,1,,mRNA_Scgn,nan,nan,nan,nan,nan,Cluster_Meis2&mRNA_Scgn>=9.100191116333008
+Cluster_Oligo,0.970072239,11557,5,9,188,1,,mRNA_Sox10,nan,nan,nan,nan,nan,Cluster_Oligo&mRNA_Sox10>=5.4408464431762695
+Cluster_Peri,0.75,11751,0,5,3,2,,mRNA_Kcnj8,mRNA_Vtn,nan,nan,nan,nan,Cluster_Peri&mRNA_Kcnj8>=8.179478645324707&mRNA_Vtn>=14.95013427734375
+Cluster_Pvalb,0.9205807,10471,85,125,1078,2,,mRNA_Lhx6,mRNA_Pvalb,nan,nan,nan,nan,Cluster_Pvalb&mRNA_Lhx6>=0.9593976736068726&mRNA_Pvalb>=6.877091407775879
+Cluster_SMC,0.997983871,11659,0,1,99,1,,mRNA_Acta2,nan,nan,nan,nan,nan,Cluster_SMC&mRNA_Acta2>=13.480262756347656
+Cluster_Sncg,0.833333333,11534,5,100,120,2,,mRNA_Slc44a5,mRNA_Sncg,nan,nan,nan,nan,Cluster_Sncg&mRNA_Slc44a5>=4.766412734985352&mRNA_Sncg>=4.229562282562256
+Cluster_Sst,0.967720598,10070,6,220,1463,2,,mRNA_Grin3a,mRNA_Sst,nan,nan,nan,nan,Cluster_Sst&mRNA_Grin3a>=6.06468391418457&mRNA_Sst>=9.143630981445312
+Cluster_VLMC,0.967741935,11653,2,8,96,1,,mRNA_Igf2,nan,nan,nan,nan,nan,Cluster_VLMC&mRNA_Igf2>=8.133872985839844
+Cluster_Vip,0.915873424,10053,124,158,1424,1,,mRNA_Vip,nan,nan,nan,nan,nan,Cluster_Vip&mRNA_Vip>=7.411808013916016

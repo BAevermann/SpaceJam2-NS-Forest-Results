@@ -1,0 +1,5 @@
+clusterName,f-measure,True Negative ,False Positive,False Negative,True Positive,markerCount,1,2,3,4,5,6,index
+cluster_Endo,0.881374723,11493,0,107,159,1,mRNA_Ly6c2,nan,nan,nan,nan,nan,cluster_Endo&mRNA_Ly6c2>=1.2280313968658447
+cluster_Ex,0.99685026,7046,15,14,4684,1,mRNA_Slc17a7,nan,nan,nan,nan,nan,cluster_Ex&mRNA_Slc17a7>=5.973121643066406
+cluster_Glia,0.606407323,10949,30,568,212,2,mRNA_Cxcl14,mRNA_Sparcl1,nan,nan,nan,nan,cluster_Glia&mRNA_Cxcl14>=5.9909186363220215&mRNA_Sparcl1>=11.436220169067383
+cluster_Inh,0.999165972,5744,0,25,5990,2,mRNA_Gad1,mRNA_Gad2,nan,nan,nan,nan,cluster_Inh&mRNA_Gad1>=7.069054126739502&mRNA_Gad2>=4.317360877990723
